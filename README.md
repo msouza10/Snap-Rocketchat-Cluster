@@ -4,6 +4,8 @@ Este script automatiza o processo de instalação e configuração do Rocket.Cha
 
 Ao utilizar este script, você estará preparando seu ambiente para uma alta disponibilidade, permitindo que suas instâncias do Rocket.Chat operem simultaneamente e compartilhem a carga de trabalho.
 
+Lembrando que ainda está em testes, sinta-se a vontade para modifica-lo.
+
 ## 📋 Pré-requisitos
 
 - Uma máquina rodando Ubuntu 20.04 ou superior.
